@@ -1,4 +1,5 @@
 
+//hey big boi
 int  in[128];
 byte NoteV[13]={8,23,40,57,76,96,116,138,162,187,213,241,255};
 float f_peaks[8]; // top 8 frequencies peaks in descending order
